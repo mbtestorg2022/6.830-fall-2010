@@ -45,20 +45,102 @@ Grades are assigned based on labs, homeworks, 2 quizzes, final project (for 6.83
 
 ### 6.830
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Assignments (problem sets, labs) | 35% total |
-| Exams | 20% each |
-| Final project | 20% |
-| Class participation | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments (problem sets, labs)
+{{< tdclose >}}
+{{< tdopen >}}
+35% total
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exams
+{{< tdclose >}}
+{{< tdopen >}}
+20% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### 6.814
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Assignments (problem sets, labs) | 50% total |
-| Exams | 20% each |
-| Class participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments (problem sets, labs)
+{{< tdclose >}}
+{{< tdopen >}}
+50% total
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exams
+{{< tdclose >}}
+{{< tdopen >}}
+20% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Each student is allowed 3 "late days", each of which may be used to turn in one problem set or lab one class meeting later than it is due without penalty. After all three late days are used, assignments will be docked one letter grade for each class meeting they are late.
 

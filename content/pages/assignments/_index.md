@@ -9,11 +9,36 @@ This section contains problem sets, labs, and a description of the final project
 Problem Sets
 ------------
 
-| PROBLEM SETS |
-| --- |
-| Problem set 1 ([PDF]({{< baseurl >}}/resources/mit6_830f10_ps1)) |
-| Problem set 2 ([PDF]({{< baseurl >}}/resources/mit6_830f10_ps2)) |
-| Problem set 3 ([PDF]({{< baseurl >}}/resources/mit6_830f10_ps3)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SETS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 1 ([PDF]({{< baseurl >}}/resources/mit6_830f10_ps1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2 ([PDF]({{< baseurl >}}/resources/mit6_830f10_ps2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3 ([PDF]({{< baseurl >}}/resources/mit6_830f10_ps3))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Labs
 ----
@@ -22,13 +47,78 @@ SimpleDB overview ([PDF]({{< baseurl >}}/resources/mit6_830f10_overview))
 
 SimpleDB documentation
 
-| LABS | SUPPORTING FILES |
-| --- | --- |
-| Lab 1: SimpleDB ([PDF]({{< baseurl >}}/resources/mit6_830f10_lab1)) | ([GZ]({{< baseurl >}}/resources/lab1-tar)) |
-| Lab 2: SimpleDB operators ([PDF]({{< baseurl >}}/resources/mit6_830f10_lab2)) |  {{< br >}}{{< br >}} ([GZ]({{< baseurl >}}/resources/lab2_supp-tar)) {{< br >}}{{< br >}} nsf\_data.tar.gz ([GZ]({{< baseurl >}}/resources/nsf_data-tar)) {{< br >}}{{< br >}}  |
-| Lab 3: SimpleDB transactions ([PDF]({{< baseurl >}}/resources/mit6_830f10_lab3)) | ([GZ]({{< baseurl >}}/resources/lab3_supp-tar)) |
-| Lab 4: Query optimization ([PDF]({{< baseurl >}}/resources/mit6_830f10_lab4)) | ([GZ]({{< baseurl >}}/resources/lab4_supp-tar)) |
-| Lab 5: Rollback and recovery ([PDF]({{< baseurl >}}/resources/mit6_830f10_lab5)) |  {{< br >}}{{< br >}} ([GZ]({{< baseurl >}}/resources/lab5_supp-tar)) {{< br >}}{{< br >}} Patch ([TXT](/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/assignments/lab5_patch.txt)) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1: SimpleDB ([PDF]({{< baseurl >}}/resources/mit6_830f10_lab1))
+{{< tdclose >}}
+{{< tdopen >}}
+([GZ]({{< baseurl >}}/resources/lab1-tar))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2: SimpleDB operators ([PDF]({{< baseurl >}}/resources/mit6_830f10_lab2))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([GZ]({{< baseurl >}}/resources/lab2_supp-tar))
+
+nsf\_data.tar.gz ([GZ]({{< baseurl >}}/resources/nsf_data-tar))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 3: SimpleDB transactions ([PDF]({{< baseurl >}}/resources/mit6_830f10_lab3))
+{{< tdclose >}}
+{{< tdopen >}}
+([GZ]({{< baseurl >}}/resources/lab3_supp-tar))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 4: Query optimization ([PDF]({{< baseurl >}}/resources/mit6_830f10_lab4))
+{{< tdclose >}}
+{{< tdopen >}}
+([GZ]({{< baseurl >}}/resources/lab4_supp-tar))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 5: Rollback and recovery ([PDF]({{< baseurl >}}/resources/mit6_830f10_lab5))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([GZ]({{< baseurl >}}/resources/lab5_supp-tar))
+
+Patch ([TXT](/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/assignments/lab5_patch.txt))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Project
 -------

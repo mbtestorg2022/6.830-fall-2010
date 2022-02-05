@@ -7,30 +7,363 @@ uid: d4cbf926-7449-e515-309f-93c4d4a15ee5
 CC = Carlo Curino  
 MS = Michael Stonebraker
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction (CC) | &nbsp; |
-| 2 | The relational model (MS) | Problem set 1 out |
-| 3 | Schema design (MS) | &nbsp; |
-| 4 | Introduction to database internals (CC) |  {{< br >}}{{< br >}} Problem set 1 due {{< br >}}{{< br >}} Lab 1 out {{< br >}}{{< br >}}  |
-| 5 | Database operators and query processing (CC) | &nbsp; |
-| 6 | Indexing and access methods (CC) |  {{< br >}}{{< br >}} Problem set 2 out {{< br >}}{{< br >}} Project teams due {{< br >}}{{< br >}}  |
-| 7 | Buffer pool design and memory management (CC) |  {{< br >}}{{< br >}} Lab 1 due {{< br >}}{{< br >}} Lab 2 out {{< br >}}{{< br >}}  |
-| 8 | Join algorithms (CC) | &nbsp; |
-| 9 | Query optimization (CC) | &nbsp; |
-| 10 | Transactions and locking (MS) | Problem set 2 due |
-| 11 | Optimistic concurrency control (MS) |  {{< br >}}{{< br >}} Project proposal due {{< br >}}{{< br >}} Lab 2 due {{< br >}}{{< br >}}  |
-| &nbsp; | **Exam 1** | &nbsp; |
-| 12 | Recovery (MS) | Lab 3 out |
-| 13 | Recovery (MS) | &nbsp; |
-| 14 | Degrees of consistency (MS) | Problem set 3 out |
-| 15 |  {{< br >}}{{< br >}} C-store {{< br >}}{{< br >}} Guest lecture: Sam Madden, MIT CSAIL {{< br >}}{{< br >}}  | Lab 3 due |
-| 16 | Distributed transactions (CC) | Lab 4 out (6.814) |
-| 17 | Parallel databases (CC) | &nbsp; |
-| 18 | Scientific databases (MS) | &nbsp; |
-| 19 | NOSQL (CC) | &nbsp; |
-| 20 | ORM, DryadLINQ (CC) | Lab 4 due (6.814) |
-| 21 | Streaming databases (MS) |  {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}} Lab 5 out (6.814) {{< br >}}{{< br >}}  |
-| &nbsp; | **Exam 2** | &nbsp; |
-| 22 | Database as a service (CC) | &nbsp; |
-| 23 | Final project presentations |  {{< br >}}{{< br >}} Final project due (6.830) {{< br >}}{{< br >}} Lab 5 due (6.814) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction (CC)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The relational model (MS)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Schema design (MS)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to database internals (CC)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 due
+
+Lab 1 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Database operators and query processing (CC)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Indexing and access methods (CC)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 2 out
+
+Project teams due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Buffer pool design and memory management (CC)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 1 due
+
+Lab 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Join algorithms (CC)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Query optimization (CC)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Transactions and locking (MS)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Optimistic concurrency control (MS)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project proposal due
+
+Lab 2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Exam 1**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Recovery (MS)
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Recovery (MS)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Degrees of consistency (MS)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+C-store
+
+Guest lecture: Sam Madden, MIT CSAIL
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Distributed transactions (CC)
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 4 out (6.814)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Parallel databases (CC)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Scientific databases (MS)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+NOSQL (CC)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+ORM, DryadLINQ (CC)
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 4 due (6.814)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Streaming databases (MS)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due
+
+Lab 5 out (6.814)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Exam 2**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Database as a service (CC)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Final project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final project due (6.830)
+
+Lab 5 due (6.814)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
