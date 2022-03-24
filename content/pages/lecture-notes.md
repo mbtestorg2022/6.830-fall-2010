@@ -133,7 +133,7 @@ Query optimization (CC)
 
 ([PDF]({{< baseurl >}}/resources/mit6_830f10_lec09))
 
-Selinger optimizer (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_830f10_lec09_selinger))
+Selinger optimizer ([PDF]({{< baseurl >}}/resources/mit6_830f10_lec09_selinger))
 
 
 {{< tdclose >}}

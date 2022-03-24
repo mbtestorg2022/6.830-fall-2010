@@ -8,7 +8,7 @@ uid: 83255771-ee33-7769-c6f3-1a15aa26beb9
 
 Read:
 
-Stonebraker, Michael, et al. _C-Store: A Column-oriented DBMS_. Proceedings of the 31st VLDB Conference, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://w6113.github.io/files/papers/cstore-vldb05.pdf))
+Stonebraker, Michael, et al. _C-Store: A Column-oriented DBMS_. Proceedings of the 31st VLDB Conference, 2005. ([PDF](https://w6113.github.io/files/papers/cstore-vldb05.pdf))
 
 This paper discusses the C-Store system, which is a read-optimized database system with a novel physical arrangement of data on disk, as well as an unusual approach to recovery and query processing
 

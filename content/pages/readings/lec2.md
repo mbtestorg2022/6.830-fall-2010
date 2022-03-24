@@ -10,7 +10,7 @@ In this lecture, we will continue our discussion of data models and database sys
 
 There is a lot of reading for this lecture. You should start early and try to digest it all, as it lays the foundation for much of what is to come. The papers are:
 
-*   Stonebraker, Michael, and Joseph Hellerstein. "What Goes Around Comes Around." In _Readings in Database Systems_ (aka the Red Book), or online here ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](https://people.cs.umass.edu/~yanlei/courses/CS691LL-f06/papers/SH05.pdf)). Read sections 1-4 (if you know something about XML, you may also enjoy reading sections 10 and 11).
+*   Stonebraker, Michael, and Joseph Hellerstein. "What Goes Around Comes Around." In _Readings in Database Systems_ (aka the Red Book), or online here ([PDF](https://people.cs.umass.edu/~yanlei/courses/CS691LL-f06/papers/SH05.pdf)). Read sections 1-4 (if you know something about XML, you may also enjoy reading sections 10 and 11).
 *   Codd, E. F. "A Relational Model of Data for Large Shared Data Banks." _Communications of the ACM_ 13, no. 6 (1970): 377-387. (Focus on sections 1.3 and all of section 2.)
 
 You may also find in useful to read pages 57-63 of Ramakrishnan and Gehrke for a brief overview of the relational model.
